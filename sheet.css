@@ -30,7 +30,8 @@ nav {
         font-size: 20px;
         position: relative;
         background-color: black;
-        margin: 20px 0px 20px 0px;
+        color: white;
+        margin: 20px 0px 40px 0px;
     }
     #top i {
         font-size: 23px;
@@ -38,15 +39,23 @@ nav {
         right: 340px;
         top: 123px;
     }
+    h5 {
+        font-size: 30px;
+        font-weight: 600;
+    }
 @media (max-width: 576px){
     #top input{
         width: 350px;
         height: 40px;
+        margin: 30px 0px 30px 0px ;
     }
     #top i {
         font-size: 20px;
-        right: 60px;
-        top: 65px;
+        right: 50px;
+        top: 77px;
+    }
+    body{
+        height: 100vh;
     }
 
 }
