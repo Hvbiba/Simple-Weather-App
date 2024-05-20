@@ -52,10 +52,13 @@ nav {
     #top i {
         font-size: 20px;
         right: 50px;
-        top: 77px;
+        top: 170px;
     }
     body{
         height: 100vh;
+    }
+    #container{
+        margin-top: 130px;
     }
 
 }
