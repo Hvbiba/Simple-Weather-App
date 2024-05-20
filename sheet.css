@@ -36,12 +36,15 @@ nav {
     #top i {
         font-size: 23px;
         position: absolute;
-        right: 400px;
-        top: 145px;
+        right: 350px;
+        top: 123px;
     }
     h5 {
         font-size: 30px;
         font-weight: 600;
+    }
+    #icon img {
+        margin: 7px;
     }
 @media (max-width: 576px){
     #top input{
@@ -60,5 +63,4 @@ nav {
     #container{
         margin-top: 130px;
     }
-
 }
